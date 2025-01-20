@@ -4,7 +4,8 @@
    ```bash
    git clone https://github.com/yhwang2746/Facebook-Dev-Privacy-Policy-Evolution.git
    cd Facebook-Dev-Privacy-Policy-Evolution
-2. pip install -r requirements.txt
+2.    ```bash
+      pip install -r requirements.txt
 3. Open main.ipynb and execute all cells starting from the top to see results
 
 ## Background
